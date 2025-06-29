@@ -1,0 +1,7 @@
+{
+    "sqltools.connections": [],
+    "sqltools.useNodeRuntime": false,
+    "files.associations": {
+        "*.sql": "sql"
+    }
+}

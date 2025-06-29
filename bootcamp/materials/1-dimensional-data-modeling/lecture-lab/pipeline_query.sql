@@ -40,4 +40,3 @@ SELECT
     FROM last_season ls
     FULL OUTER JOIN this_season ts
     ON ls.player_name = ts.player_name
-

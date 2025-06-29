@@ -1,2 +1,6 @@
 .idea/
 .DS_Store
+
+# Personal homework solutions - do not commit
+bootcamp/mylabs/
+mylabs/
