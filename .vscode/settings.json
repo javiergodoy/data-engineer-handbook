@@ -3,5 +3,8 @@
     "sqltools.useNodeRuntime": false,
     "files.associations": {
         "*.sql": "sql"
-    }
+    },
+    "python.analysis.extraPaths": [
+        "./bootcamp/mylabs/week_3_submission4/src/jobs"
+    ]
 }
