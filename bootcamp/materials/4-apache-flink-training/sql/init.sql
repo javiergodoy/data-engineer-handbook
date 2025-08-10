@@ -7,3 +7,7 @@ CREATE TABLE IF NOT EXISTS processed_events (
     url VARCHAR,
     geodata VARCHAR
 );
+
+
+SELECT * FROM processed_events
+ORDER BY event_timestamp DESC
